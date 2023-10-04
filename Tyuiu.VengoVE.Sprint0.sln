@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{AD01CBE6-7B91-40C7-9035-80909450F27A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VengoVE.Sprint0", "Tyuiu.VengoVE.Sprint0\Tyuiu.VengoVE.Sprint0.csproj", "{E907461C-FF61-401A-91B9-540DC27A76FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E907461C-FF61-401A-91B9-540DC27A76FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E907461C-FF61-401A-91B9-540DC27A76FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E907461C-FF61-401A-91B9-540DC27A76FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E907461C-FF61-401A-91B9-540DC27A76FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E907461C-FF61-401A-91B9-540DC27A76FE} = {AD01CBE6-7B91-40C7-9035-80909450F27A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FBF46FC-8E22-45F4-86E4-A063B592B13A}
+	EndGlobalSection
+EndGlobal
